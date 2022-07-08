@@ -1,6 +1,12 @@
 # ExpressionGAN
 
+### Controlling gene expression with deep generative design of regulatory DNA
+
 <img src="https://github.com/JanZrimec/ExpressionGAN/blob/main/docs/fig3c.png" width="600">
+
+Figure. Predictor-guided generator optimization enables gene-specific navigation of the regulatory sequence-expression landscape. T-distributed stochastic neighbor embedding (t-SNE) mapping of the input latent subspaces that produce novel sequence variants spanning ~6 orders of magnitude of gene expression (colored and black dots), uncovered using the predictor-guided generator optimization. Black dots represent selections of 10 sequence variants per each of the 4 expression groups covering a 4 order-of-magnitude range of predicted expression levels from TPM ~10 to ~10,000.
+
+------------
 
 Scripts for training and optimization of ExpressionGAN as well as to reproduce the analysis are provided in the folder 'scripts'.
 
