@@ -9,7 +9,7 @@ Figure. Predictor-guided generator optimization enables gene-specific navigation
 
 ------------
 ### Note
-Arrows were incorrectly rendered in schematic figures 1d, 3a & 6e in the paper and are missing. The correct panels are available in the docs folder.
+Arrows were incorrectly rendered and are missing in schematic figures 1d, 3a & 6e. The correct panels are available in the docs folder.
 
 <img src="https://github.com/JanZrimec/ExpressionGAN/blob/main/docs/fig1d.png" width="400"> 
 
